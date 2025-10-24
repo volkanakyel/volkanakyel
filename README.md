@@ -12,4 +12,4 @@ Design Engineer building minimal and performant web interfaces.
 
 #### Links
 
-[Portfolio](https://uikielle.com) • [LinkedIn](https://linkedin.com/in/volkanakyel) • [Twitter](https://x.com/volkanuikielle)
+[Portfolio](https://uikielle.com) • [LinkedIn](https://www.linkedin.com/in/volkan-akyel/) • [Twitter](https://x.com/volkanuikielle)
