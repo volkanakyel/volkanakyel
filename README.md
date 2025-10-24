@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+  <img src="banner.png" width="100%" alt="banner"/>
+</div>
 
-<!--
-**volkanakyel/volkanakyel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Volkan Akyel
 
-Here are some ideas to get you started:
+Design Engineer building minimal and performant web interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Vue` `Nuxt` `TypeScript` `Tailwind` `GSAP`
+
+---
+
+#### Links
+
+[Portfolio](https://uikielle.com) • [LinkedIn](https://linkedin.com/in/volkanakyel) • [Twitter](https://x.com/volkanuikielle)
